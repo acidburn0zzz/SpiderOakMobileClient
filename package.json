@@ -31,7 +31,7 @@
     }
   ],
   "dependencies": {
-    "semver": "2.2.1"
+    "semver": "5.7.2"
   },
   "devDependencies": {
     "cordova": "3.0.6",
